@@ -5,7 +5,7 @@ We are a research group at the **University of Manchester** dedicated to advanci
 ## 🔬 Our Research Domains
 Our research combines numerical innovation with physical validation, specializing in:
 
-* **Numerical Methods:** Advanced development of **Lattice Boltzmann (LBM)** and **Mesh-free** particle-based techniques.
+* **Numerical Methods:** Advanced development of **high-order** and **Mesh-free** particle-based techniques.
 * **Physical Systems:** Modeling **Thermofluids**, **Viscoelasticity** flows.
 * **Data-Driven Paradigms:** Integrating **Machine Learning** to accelerate simulations.
 * **Experimental Front:** Characterization and validation of complex flow phenomena.
